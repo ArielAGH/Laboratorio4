@@ -47,6 +47,15 @@ Para realizar transformaciones de coordenadas polares a rectangulares   y viceve
 
 Para esta sección existirá una carpeta que contenga los cálculos realizados.
 
+Los ejercicios a realizarse son: 
+
+![](https://github.com/ArielAGH/Laboratorio4/blob/main/Img/Parte1.png)
+
+8.5.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar.
+
+![](https://github.com/ArielAGH/Laboratorio4/blob/main/Img/Parte2.png)
+
 ## 6. ANÁLISIS DE RESULTADOS
 
 Como se pudo observar en el apartado de cálculos en la medición de errores tenemos valores bastante pequeños, lo que nos indica que la transformación de un número imaginario en su forma polar a rectangular y en forma rectangular a polar es posible por medio de las fórmulas empleadas. Hay que tomar en cuenta el número de decimales que se quiere emplear, aunque estos no representan un cambio significativamente grande en los cálculos nos permiten determinar valores más exactos.
